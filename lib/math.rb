@@ -5,8 +5,8 @@ end
 addition(5,5)
 
 def subtraction(num1, num2)
-sub = num1 - num2
-puts sub
+subt = num1 - num2
+puts subt
 end
 subtraction(1,5)
 
