@@ -20,9 +20,11 @@ end
 multiplication(num1,num2)
 
 def modulo(num1, num2)
-
+  mod = num1 % num2
 end
-
+modulo(20,40)
 def square_root(num)
+  sqrt = 6** num
 
 end
+square_root(2)
