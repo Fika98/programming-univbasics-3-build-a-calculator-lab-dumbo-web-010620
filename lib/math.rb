@@ -20,7 +20,7 @@ def multiplication(num1, num2)
 multi = num1 * num2
 puts multi
 end
-multiplication(num1,num2)
+multiplication(5,25)
 
 def modulo(num1, num2)
   mod = num1 % num2
